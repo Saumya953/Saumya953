@@ -14,5 +14,5 @@
  📫 Connect With Me:
 - [LinkedIn](https://linkedin.com/in/saumyathorat)
 
-[Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saumya953&show_icons=true&theme=tokyonight)
+- [Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saumya953&show_icons=true&theme=tokyonight)
 
