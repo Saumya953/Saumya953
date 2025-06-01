@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Saumya
 
-<!--
-**Saumya953/Saumya953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech (ENTC) Student at RSCOE JSPM Tathawade. 
+🚀 Aspiring Software & Embedded Developer  
+💻 Currently learning C Programming, Embedded C ,SQL & Aptitude  
+🔧 Building projects in C, Embedded Systems, and IoT  
+📈 On a journey to crack top company placements in 2026
 
-Here are some ideas to get you started:
+ 🌱 Currently Working On:
+- C Programming Projects
+- Embedded C
+- IoT + AI Final Year Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Connect With Me:
+- [LinkedIn](https://linkedin.com/in/saumyathorat)
+
+[Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saumya953&show_icons=true&theme=tokyonight)
+
