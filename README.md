@@ -1,6 +1,7 @@
 👋 Hi, I'm Saumya
 
 🎓 Final Year B.Tech (ENTC) Student at RSCOE JSPM Tathawade. 
+
 🚀 Aspiring Software & Embedded Developer  
 💻 Currently learning C Programming, Embedded C ,SQL & Aptitude  
 🔧 Building projects in C, Embedded Systems, and IoT  
