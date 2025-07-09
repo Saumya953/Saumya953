@@ -3,13 +3,13 @@
 🎓 Final Year B.Tech (ENTC) Student at RSCOE JSPM Tathawade. 
 
 🚀 Aspiring Software & Embedded Developer  
-💻 Currently learning C Programming, Embedded C ,SQL & Aptitude  
+💻 Currently learning C Programming, Networking,Cybersecurity threats,Linux Commands,SQL & Aptitude  
 🔧 Building projects in C, Embedded Systems, and IoT  
 📈 On a journey to crack top company placements in 2026
 
  🌱 Currently Working On:
 - C Programming Projects
-- Embedded C
+- Networking Project
 - IoT + AI Final Year Project
 
  📫 Connect With Me:
